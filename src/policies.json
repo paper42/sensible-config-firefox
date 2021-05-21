@@ -1,0 +1,23 @@
+{
+  "policies": {
+
+    "DisableFirefoxStudies": true,
+    "DisableTelemetry": true,
+    "DisablePocket": true,
+    "NewTabPage": false,
+    "NoDefaultBookmarks": true,
+    "OverrideFirstRunPage": "",
+    "OverridePostUpdatePage": "",
+
+    "SearchEngines": {
+      "Default": "DuckDuckGo"
+    },
+
+    "UserMessaging": {
+      "WhatsNew": false,
+      "ExtensionRecommendations": false,
+      "FeatureRecommendations": false,
+      "UrlbarInterventions": false
+    }
+  }
+}
