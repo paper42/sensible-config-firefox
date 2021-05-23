@@ -8,6 +8,7 @@ A fork of [mobile-config-firefox](https://gitlab.com/postmarketOS/mobile-config-
 * Disable Firefox studies
 * Disable Telemetry
 * Set DuckDuckGo as default search engine
+* Empty homepage
 * Empty "new tab" page
 * No default bookmarks from Firefox
 * Disable First Run Page

@@ -9,6 +9,11 @@
     "OverrideFirstRunPage": "",
     "OverridePostUpdatePage": "",
 
+    "Homepage": {
+      "Locked": false,
+      "StartPage": "none"
+    },
+
     "SearchEngines": {
       "Default": "DuckDuckGo"
     },
